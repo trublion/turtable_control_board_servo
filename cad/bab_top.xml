@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\sylvain\Documents\dev\trublion\bab_v1\pr001_instrubab\cad\bab_top.sch</source>
+    <date>24/11/2019 16:24:37</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>2 apr 2016</date>
+        <source>bab_top.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Peak detector/" tstamps="/56FE9162/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>2 apr 2016</date>
+        <source>bab_peak.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Power supply/" tstamps="/56FE986E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>2 apr 2016</date>
+        <source>psu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R103">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57016C21</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>4.7k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57016D31</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57017242</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5701C207</tstamp>
+    </comp>
+    <comp ref="P102">
+      <value>CONN_01X02</value>
+      <footprint>Connect:bornier2</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57020553</tstamp>
+    </comp>
+    <comp ref="P107">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B405F</tstamp>
+    </comp>
+    <comp ref="P106">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>572B6E0C</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>330</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57770DBB</tstamp>
+    </comp>
+    <comp ref="D102">
+      <value>Led_Small</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02</footprint>
+      <libsource lib="bab_top-rescue" part="Led_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57771604</tstamp>
+    </comp>
+    <comp ref="Q101">
+      <value>J201</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="bab_top-rescue" part="J201" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577AB7E5</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>1M</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577AB9C5</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>220n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577AD5D8</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>100k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577AD92E</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>1M</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577B0275</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>10k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577B073E</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>220n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577B1145</tstamp>
+    </comp>
+    <comp ref="P110">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577EED9F</tstamp>
+    </comp>
+    <comp ref="P103">
+      <value>Nulceo_F303K8_CONN</value>
+      <footprint>bab_footprint:Nucleo_F303K8_CONN</footprint>
+      <libsource lib="bab" part="Nulceo_F303K8_CONN" description="Nucleo F303K8 connectors"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57015E17</tstamp>
+    </comp>
+    <comp ref="RV102">
+      <value>10k</value>
+      <footprint>flax_lib:ALPS_RK09L</footprint>
+      <libsource lib="bab_top-rescue" part="POT-RESCUE-bab_top" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578029BB</tstamp>
+    </comp>
+    <comp ref="RV103">
+      <value>10k</value>
+      <footprint>flax_lib:ALPS_RK09L</footprint>
+      <libsource lib="bab_top-rescue" part="POT-RESCUE-bab_top" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578030FE</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57805716</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57806007</tstamp>
+    </comp>
+    <comp ref="P104">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>577F2467</tstamp>
+    </comp>
+    <comp ref="RV101">
+      <value>10k</value>
+      <footprint>flax_lib:ALPS_RK09L</footprint>
+      <libsource lib="bab_top-rescue" part="POT-RESCUE-bab_top" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A89D3A6</tstamp>
+    </comp>
+    <comp ref="P101">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD223E2</tstamp>
+    </comp>
+    <comp ref="Q102">
+      <value>DTC114Y</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="Transistor_BJT" part="DTC114Y" description="Digital NPN Transistor, 10k/47k, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD28929</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>1k</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD2A487</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>330</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD2B019</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>330</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD35E5C</tstamp>
+    </comp>
+    <comp ref="D101">
+      <value>MBRS3100T3G</value>
+      <footprint>flax_lib:DO-214AC</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD402CE</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>100u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD47F04</tstamp>
+    </comp>
+    <comp ref="P105">
+      <value>CONN_01X02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD732DB</tstamp>
+    </comp>
+    <comp ref="Q103">
+      <value>DTC114Y</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="Transistor_BJT" part="DTC114Y" description="Digital NPN Transistor, 10k/47k, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD732E5</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>1k</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD732F9</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>330</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD73303</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>330</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD73312</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>1k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE888F</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_2220_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE889E</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>1M</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE88AD</tstamp>
+    </comp>
+    <comp ref="U201">
+      <value>LM833</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="bab" part="LM833" description=""/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8A6D</tstamp>
+    </comp>
+    <comp ref="R205">
+      <value>2k2</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8AB7</tstamp>
+    </comp>
+    <comp ref="C203">
+      <value>47u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8AD0</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>100p</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8BBA</tstamp>
+    </comp>
+    <comp ref="R206">
+      <value>100</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8BD3</tstamp>
+    </comp>
+    <comp ref="C204">
+      <value>47u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8BF5</tstamp>
+    </comp>
+    <comp ref="C205">
+      <value>100p</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C07</tstamp>
+    </comp>
+    <comp ref="R207">
+      <value>75k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C0D</tstamp>
+    </comp>
+    <comp ref="R208">
+      <value>4.7k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C1D</tstamp>
+    </comp>
+    <comp ref="C206">
+      <value>47u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C3C</tstamp>
+    </comp>
+    <comp ref="R209">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C5D</tstamp>
+    </comp>
+    <comp ref="R210">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C63</tstamp>
+    </comp>
+    <comp ref="U202">
+      <value>LM358</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="bab_top-rescue" part="LM358-RESCUE-bab_top" description=""/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8C96</tstamp>
+    </comp>
+    <comp ref="R211">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8CBC</tstamp>
+    </comp>
+    <comp ref="R212">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8CC2</tstamp>
+    </comp>
+    <comp ref="R213">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8CE8</tstamp>
+    </comp>
+    <comp ref="R214">
+      <value>10k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8CF1</tstamp>
+    </comp>
+    <comp ref="C208">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE8CFA</tstamp>
+    </comp>
+    <comp ref="C207">
+      <value>6.8u</value>
+      <footprint>Capacitors_SMD:CP_Elec_5x5.7</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE90AC</tstamp>
+    </comp>
+    <comp ref="RV205">
+      <value>100k</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="POT-RESCUE-bab_top" description=""/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE943A</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE99A8</tstamp>
+    </comp>
+    <comp ref="R204">
+      <value>33k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>56FE99BF</tstamp>
+    </comp>
+    <comp ref="C209">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>571013B0</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>BAS21</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="bab" part="BAS21" description="Diode"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>571BE17F</tstamp>
+    </comp>
+    <comp ref="D202">
+      <value>BAS21</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="bab" part="BAS21" description="Diode"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>571BE55C</tstamp>
+    </comp>
+    <comp ref="R216">
+      <value>0</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>5776A322</tstamp>
+    </comp>
+    <comp ref="D203">
+      <value>Led_Small</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="Led_Small" description=""/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>577B297B</tstamp>
+    </comp>
+    <comp ref="R215">
+      <value>1k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>577B2AE6</tstamp>
+    </comp>
+    <comp ref="R217">
+      <value>100</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>5A89EE89</tstamp>
+    </comp>
+    <comp ref="R218">
+      <value>470k</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>5A89F166</tstamp>
+    </comp>
+    <comp ref="RV201">
+      <value>RK09L_stereo</value>
+      <footprint>flax_lib:ALPS_RK09L_stereo</footprint>
+      <libsource lib="bab_top-rescue" part="RK09L_stereo" description=""/>
+      <sheetpath names="/Peak detector/" tstamps="/56FE9162/"/>
+      <tstamp>5A8B4C57</tstamp>
+    </comp>
+    <comp ref="C306">
+      <value>100u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FE99C3</tstamp>
+    </comp>
+    <comp ref="C307">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FE99D8</tstamp>
+    </comp>
+    <comp ref="U301">
+      <value>LM2674</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="bab" part="LM2674" description="Step down switching regulator"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFCDDF</tstamp>
+    </comp>
+    <comp ref="L301">
+      <value>100u</value>
+      <footprint>Choke_SMD:Choke_SMD_7.3x7.3_H3.5</footprint>
+      <libsource lib="bab_top-rescue" part="INDUCTOR" description=""/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFCF29</tstamp>
+    </comp>
+    <comp ref="C305">
+      <value>10n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFCFD2</tstamp>
+    </comp>
+    <comp ref="D303">
+      <value>MBRS3100T3G</value>
+      <footprint>flax_lib:DO-214AC</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFD05E</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>MBRS3100T3G</value>
+      <footprint>flax_lib:DO-214AC</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFD158</tstamp>
+    </comp>
+    <comp ref="D302">
+      <value>MBRS3100T3G</value>
+      <footprint>flax_lib:DO-214AC</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFD168</tstamp>
+    </comp>
+    <comp ref="C304">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFCE34</tstamp>
+    </comp>
+    <comp ref="C303">
+      <value>100u</value>
+      <footprint>Capacitors_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>56FFCE2E</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>572B2E2D</tstamp>
+    </comp>
+    <comp ref="D402">
+      <value>Led_Small</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="bab_top-rescue" part="Led_Small" description=""/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>577F3F76</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>47k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>5DDAE621</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power supply/" tstamps="/56FE986E/"/>
+      <tstamp>5DDAF722</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="DTC114Y">
+      <description>Digital NPN Transistor, 10k/47k, SOT-23</description>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>SC?59*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DTC114Y</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab" part="BAS21">
+      <description>Diode</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAS21</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab" part="LM2674">
+      <description>Step down switching regulator</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2674</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CB" type="input"/>
+        <pin num="2" name="NC" type="NotConnected"/>
+        <pin num="3" name="NC" type="NotConnected"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="ON/~OFF" type="passive"/>
+        <pin num="6" name="GND" type="input"/>
+        <pin num="7" name="Vin" type="power_in"/>
+        <pin num="8" name="Vsw" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab" part="LM833">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM833</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="openCol"/>
+        <pin num="2" name="_" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="_" type="input"/>
+        <pin num="7" name="~" type="openCol"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab" part="Nulceo_F303K8_CONN">
+      <description>Nucleo F303K8 connectors</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Nulceo_F303K8_CONN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA_9" type="passive"/>
+        <pin num="2" name="VIN" type="passive"/>
+        <pin num="3" name="PA_10" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="NRST" type="passive"/>
+        <pin num="6" name="NRST" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="+5V" type="passive"/>
+        <pin num="9" name="PA_12" type="passive"/>
+        <pin num="10" name="PA_2" type="passive"/>
+        <pin num="11" name="PB_0" type="passive"/>
+        <pin num="12" name="PA_7" type="passive"/>
+        <pin num="13" name="PB_7" type="passive"/>
+        <pin num="14" name="PA_6" type="passive"/>
+        <pin num="15" name="PB_6" type="passive"/>
+        <pin num="16" name="PA_5" type="passive"/>
+        <pin num="17" name="PB_1" type="passive"/>
+        <pin num="18" name="PA_4" type="passive"/>
+        <pin num="19" name="PF_0" type="passive"/>
+        <pin num="20" name="PA_3" type="passive"/>
+        <pin num="21" name="PF_1" type="passive"/>
+        <pin num="22" name="PA_1" type="passive"/>
+        <pin num="23" name="PA_8" type="passive"/>
+        <pin num="24" name="PA_0" type="passive"/>
+        <pin num="25" name="PA_11" type="passive"/>
+        <pin num="26" name="AREF" type="passive"/>
+        <pin num="27" name="PB_5" type="passive"/>
+        <pin num="28" name="+3V3" type="passive"/>
+        <pin num="29" name="PB_4" type="passive"/>
+        <pin num="30" name="PB_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="CONN_01X02">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="INDUCTOR">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="J201">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">J201</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="input"/>
+        <pin num="2" name="S" type="input"/>
+        <pin num="3" name="G" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="LM358-RESCUE-bab_top">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM358-RESCUE-bab_top</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="Led_Small">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Led_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="POT-RESCUE-bab_top">
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT-RESCUE-bab_top</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="bab_top-rescue" part="RK09L_stereo">
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">RK09L_stereo</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="1" type="passive"/>
+        <pin num="5" name="2" type="passive"/>
+        <pin num="6" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\dev\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\dev\KiCad\share\kicad\library/Transistor_BJT.lib</uri>
+    </library>
+    <library logical="bab">
+      <uri>C:\Users\sylvain\Documents\dev\trublion\bab_v1\pr001_instrubab\cad/lib/bab.lib</uri>
+    </library>
+    <library logical="bab_top-rescue">
+      <uri>C:\Users\sylvain\Documents\dev\trublion\bab_v1\pr001_instrubab\cad/bab_top-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(P103-Pad18)">
+      <node ref="P103" pin="18"/>
+    </net>
+    <net code="2" name="Net-(P103-Pad21)">
+      <node ref="P103" pin="21"/>
+    </net>
+    <net code="3" name="Net-(C103-Pad1)">
+      <node ref="C103" pin="1"/>
+      <node ref="R102" pin="2"/>
+      <node ref="R107" pin="1"/>
+      <node ref="Q101" pin="3"/>
+    </net>
+    <net code="4" name="+24V">
+      <node ref="R1" pin="1"/>
+      <node ref="R102" pin="1"/>
+      <node ref="D101" pin="2"/>
+      <node ref="P106" pin="1"/>
+      <node ref="P106" pin="2"/>
+      <node ref="Q101" pin="1"/>
+      <node ref="D302" pin="2"/>
+      <node ref="D301" pin="2"/>
+      <node ref="R103" pin="1"/>
+    </net>
+    <net code="5" name="Net-(P102-Pad1)">
+      <node ref="P107" pin="2"/>
+      <node ref="P107" pin="1"/>
+      <node ref="P102" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C104-Pad2)">
+      <node ref="Q101" pin="2"/>
+      <node ref="C104" pin="2"/>
+      <node ref="R108" pin="1"/>
+    </net>
+    <net code="7" name="GNDA">
+      <node ref="R108" pin="2"/>
+      <node ref="P110" pin="2"/>
+      <node ref="P103" pin="4"/>
+      <node ref="P103" pin="7"/>
+      <node ref="P102" pin="2"/>
+      <node ref="R104" pin="2"/>
+      <node ref="C102" pin="2"/>
+      <node ref="D102" pin="1"/>
+      <node ref="C101" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="P104" pin="1"/>
+      <node ref="RV102" pin="1"/>
+      <node ref="RV103" pin="1"/>
+      <node ref="C106" pin="2"/>
+      <node ref="RV205" pin="1"/>
+      <node ref="R216" pin="1"/>
+      <node ref="C209" pin="2"/>
+      <node ref="R214" pin="2"/>
+      <node ref="C208" pin="2"/>
+      <node ref="U202" pin="4"/>
+      <node ref="R210" pin="2"/>
+      <node ref="U201" pin="4"/>
+      <node ref="C206" pin="2"/>
+      <node ref="C204" pin="2"/>
+      <node ref="U201" pin="4"/>
+      <node ref="R204" pin="2"/>
+      <node ref="U301" pin="6"/>
+      <node ref="R302" pin="2"/>
+      <node ref="D402" pin="1"/>
+      <node ref="U301" pin="3"/>
+      <node ref="D303" pin="2"/>
+      <node ref="U301" pin="2"/>
+      <node ref="C307" pin="2"/>
+      <node ref="C306" pin="2"/>
+      <node ref="U202" pin="4"/>
+      <node ref="C304" pin="2"/>
+      <node ref="C303" pin="2"/>
+      <node ref="C203" pin="2"/>
+      <node ref="Q102" pin="2"/>
+      <node ref="C105" pin="2"/>
+      <node ref="Q103" pin="2"/>
+      <node ref="R109" pin="2"/>
+      <node ref="RV101" pin="1"/>
+      <node ref="R107" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D102-Pad2)">
+      <node ref="D102" pin="2"/>
+      <node ref="R101" pin="2"/>
+    </net>
+    <net code="9" name="Net-(P105-Pad1)">
+      <node ref="P105" pin="1"/>
+      <node ref="R112" pin="1"/>
+    </net>
+    <net code="10" name="Net-(P105-Pad2)">
+      <node ref="P105" pin="2"/>
+      <node ref="R113" pin="1"/>
+    </net>
+    <net code="11" name="Net-(Q103-Pad3)">
+      <node ref="Q103" pin="3"/>
+      <node ref="R111" pin="2"/>
+      <node ref="R113" pin="2"/>
+    </net>
+    <net code="12" name="+VSW">
+      <node ref="R301" pin="1"/>
+      <node ref="P103" pin="2"/>
+      <node ref="L301" pin="2"/>
+      <node ref="C307" pin="1"/>
+      <node ref="C306" pin="1"/>
+    </net>
+    <net code="13" name="/ENABLE_CMD_MCU">
+      <node ref="P103" pin="13"/>
+      <node ref="Q103" pin="1"/>
+    </net>
+    <net code="14" name="Vdrive">
+      <node ref="R106" pin="2"/>
+      <node ref="R111" pin="1"/>
+      <node ref="R105" pin="1"/>
+      <node ref="R112" pin="2"/>
+      <node ref="C105" pin="1"/>
+      <node ref="D101" pin="1"/>
+    </net>
+    <net code="15" name="Net-(P101-Pad1)">
+      <node ref="P101" pin="1"/>
+      <node ref="R106" pin="1"/>
+    </net>
+    <net code="16" name="Net-(P101-Pad2)">
+      <node ref="P101" pin="2"/>
+      <node ref="R110" pin="1"/>
+    </net>
+    <net code="17" name="Net-(Q102-Pad3)">
+      <node ref="R110" pin="2"/>
+      <node ref="Q102" pin="3"/>
+      <node ref="R105" pin="2"/>
+    </net>
+    <net code="18" name="Net-(P103-Pad27)">
+      <node ref="P103" pin="27"/>
+    </net>
+    <net code="19" name="Net-(P103-Pad25)">
+      <node ref="P103" pin="25"/>
+    </net>
+    <net code="20" name="Net-(P103-Pad29)">
+      <node ref="P103" pin="29"/>
+    </net>
+    <net code="21" name="/PWM_VIS_MCU">
+      <node ref="P103" pin="19"/>
+      <node ref="R101" pin="1"/>
+    </net>
+    <net code="22" name="Net-(P103-Pad15)">
+      <node ref="P103" pin="15"/>
+    </net>
+    <net code="23" name="Net-(P103-Pad1)">
+      <node ref="P103" pin="1"/>
+    </net>
+    <net code="24" name="Net-(P103-Pad3)">
+      <node ref="P103" pin="3"/>
+    </net>
+    <net code="25" name="Net-(P103-Pad9)">
+      <node ref="P103" pin="9"/>
+    </net>
+    <net code="26" name="Net-(P103-Pad30)">
+      <node ref="P103" pin="30"/>
+    </net>
+    <net code="27" name="Net-(P103-Pad16)">
+      <node ref="P103" pin="16"/>
+    </net>
+    <net code="28" name="Net-(P103-Pad14)">
+      <node ref="P103" pin="14"/>
+    </net>
+    <net code="29" name="Net-(P103-Pad12)">
+      <node ref="P103" pin="12"/>
+    </net>
+    <net code="30" name="Net-(P103-Pad10)">
+      <node ref="P103" pin="10"/>
+    </net>
+    <net code="31" name="/AN_PEAK_MCU">
+      <node ref="R214" pin="1"/>
+      <node ref="C208" pin="1"/>
+      <node ref="D202" pin="1"/>
+      <node ref="R213" pin="1"/>
+      <node ref="P103" pin="11"/>
+    </net>
+    <net code="32" name="/OFFSET_CONTROL_MCU">
+      <node ref="RV101" pin="2"/>
+      <node ref="C101" pin="1"/>
+      <node ref="P103" pin="17"/>
+    </net>
+    <net code="33" name="/BATT_DIAG_MCU">
+      <node ref="C102" pin="1"/>
+      <node ref="R104" pin="1"/>
+      <node ref="P103" pin="24"/>
+      <node ref="R103" pin="2"/>
+    </net>
+    <net code="34" name="/PWM_CMD_MCU">
+      <node ref="P103" pin="23"/>
+      <node ref="Q102" pin="1"/>
+    </net>
+    <net code="35" name="/AUDIO_IN">
+      <node ref="R201" pin="1"/>
+      <node ref="P104" pin="2"/>
+      <node ref="C103" pin="2"/>
+    </net>
+    <net code="36" name="Net-(P103-Pad26)">
+      <node ref="P103" pin="26"/>
+    </net>
+    <net code="37" name="Net-(P103-Pad5)">
+      <node ref="P103" pin="5"/>
+    </net>
+    <net code="38" name="Net-(P103-Pad6)">
+      <node ref="P103" pin="6"/>
+    </net>
+    <net code="39" name="Net-(P103-Pad8)">
+      <node ref="P103" pin="8"/>
+    </net>
+    <net code="40" name="+3V3">
+      <node ref="D202" pin="3"/>
+      <node ref="RV101" pin="3"/>
+      <node ref="RV103" pin="3"/>
+      <node ref="RV102" pin="3"/>
+      <node ref="P103" pin="28"/>
+    </net>
+    <net code="41" name="/v_max">
+      <node ref="RV102" pin="2"/>
+      <node ref="P103" pin="22"/>
+      <node ref="C106" pin="1"/>
+    </net>
+    <net code="42" name="/v_min">
+      <node ref="C107" pin="1"/>
+      <node ref="RV103" pin="2"/>
+      <node ref="P103" pin="20"/>
+    </net>
+    <net code="43" name="/audio_bypass">
+      <node ref="C104" pin="1"/>
+      <node ref="R109" pin="1"/>
+      <node ref="P110" pin="1"/>
+    </net>
+    <net code="44" name="Net-(R211-Pad1)">
+      <node ref="RV205" pin="2"/>
+      <node ref="R211" pin="1"/>
+    </net>
+    <net code="45" name="Net-(C207-Pad1)">
+      <node ref="R218" pin="2"/>
+      <node ref="R209" pin="1"/>
+      <node ref="D201" pin="3"/>
+      <node ref="C207" pin="1"/>
+    </net>
+    <net code="46" name="Net-(C206-Pad1)">
+      <node ref="C206" pin="1"/>
+      <node ref="R208" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D201-Pad1)">
+      <node ref="R217" pin="1"/>
+      <node ref="D201" pin="1"/>
+    </net>
+    <net code="48" name="VCOM">
+      <node ref="U202" pin="1"/>
+      <node ref="U202" pin="2"/>
+      <node ref="C207" pin="2"/>
+      <node ref="R215" pin="1"/>
+      <node ref="R202" pin="1"/>
+    </net>
+    <net code="49" name="Net-(R209-Pad2)">
+      <node ref="R210" pin="1"/>
+      <node ref="U202" pin="5"/>
+      <node ref="R209" pin="2"/>
+    </net>
+    <net code="50" name="Net-(R211-Pad2)">
+      <node ref="U202" pin="6"/>
+      <node ref="R212" pin="2"/>
+      <node ref="R211" pin="2"/>
+    </net>
+    <net code="51" name="Net-(R212-Pad1)">
+      <node ref="R212" pin="1"/>
+      <node ref="U202" pin="7"/>
+      <node ref="R213" pin="2"/>
+    </net>
+    <net code="52" name="Net-(RV201-Pad5)">
+      <node ref="RV201" pin="5"/>
+      <node ref="U201" pin="5"/>
+    </net>
+    <net code="53" name="Net-(C205-Pad1)">
+      <node ref="U201" pin="7"/>
+      <node ref="R207" pin="1"/>
+      <node ref="D203" pin="2"/>
+      <node ref="C205" pin="1"/>
+      <node ref="R217" pin="2"/>
+    </net>
+    <net code="54" name="Net-(C209-Pad1)">
+      <node ref="C209" pin="1"/>
+      <node ref="U202" pin="3"/>
+      <node ref="R204" pin="1"/>
+      <node ref="R203" pin="2"/>
+    </net>
+    <net code="55" name="Net-(R216-Pad2)">
+      <node ref="R216" pin="2"/>
+      <node ref="R218" pin="1"/>
+    </net>
+    <net code="56" name="Net-(D203-Pad1)">
+      <node ref="D203" pin="1"/>
+      <node ref="R215" pin="2"/>
+    </net>
+    <net code="57" name="Net-(C201-Pad1)">
+      <node ref="C201" pin="1"/>
+      <node ref="R201" pin="2"/>
+    </net>
+    <net code="58" name="Net-(C202-Pad2)">
+      <node ref="C202" pin="2"/>
+      <node ref="U201" pin="2"/>
+      <node ref="RV201" pin="2"/>
+    </net>
+    <net code="59" name="Net-(C201-Pad2)">
+      <node ref="R202" pin="2"/>
+      <node ref="C201" pin="2"/>
+      <node ref="U201" pin="3"/>
+    </net>
+    <net code="60" name="VAA">
+      <node ref="U201" pin="8"/>
+      <node ref="U201" pin="8"/>
+      <node ref="U202" pin="8"/>
+      <node ref="RV205" pin="3"/>
+      <node ref="R203" pin="1"/>
+      <node ref="U202" pin="8"/>
+      <node ref="D302" pin="1"/>
+    </net>
+    <net code="61" name="Net-(R205-Pad1)">
+      <node ref="RV201" pin="3"/>
+      <node ref="R205" pin="1"/>
+    </net>
+    <net code="62" name="Net-(C203-Pad1)">
+      <node ref="R205" pin="2"/>
+      <node ref="C203" pin="1"/>
+    </net>
+    <net code="63" name="Net-(C202-Pad1)">
+      <node ref="U201" pin="1"/>
+      <node ref="C202" pin="1"/>
+      <node ref="RV201" pin="1"/>
+      <node ref="R206" pin="1"/>
+    </net>
+    <net code="64" name="Net-(R206-Pad2)">
+      <node ref="RV201" pin="6"/>
+      <node ref="R206" pin="2"/>
+    </net>
+    <net code="65" name="Net-(C204-Pad1)">
+      <node ref="C204" pin="1"/>
+      <node ref="RV201" pin="4"/>
+    </net>
+    <net code="66" name="Net-(C205-Pad2)">
+      <node ref="R207" pin="2"/>
+      <node ref="C205" pin="2"/>
+      <node ref="U201" pin="6"/>
+      <node ref="R208" pin="1"/>
+    </net>
+    <net code="67" name="Net-(D402-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="D402" pin="2"/>
+    </net>
+    <net code="68" name="VDD">
+      <node ref="D301" pin="1"/>
+      <node ref="C304" pin="1"/>
+      <node ref="C303" pin="1"/>
+      <node ref="U301" pin="7"/>
+    </net>
+    <net code="69" name="Net-(R301-Pad2)">
+      <node ref="U301" pin="4"/>
+      <node ref="R301" pin="2"/>
+      <node ref="R302" pin="1"/>
+    </net>
+    <net code="70" name="Net-(U301-Pad5)">
+      <node ref="U301" pin="5"/>
+    </net>
+    <net code="71" name="Net-(C305-Pad2)">
+      <node ref="D303" pin="1"/>
+      <node ref="U301" pin="8"/>
+      <node ref="L301" pin="1"/>
+      <node ref="C305" pin="2"/>
+    </net>
+    <net code="72" name="Net-(C305-Pad1)">
+      <node ref="C305" pin="1"/>
+      <node ref="U301" pin="1"/>
+    </net>
+  </nets>
+</export>

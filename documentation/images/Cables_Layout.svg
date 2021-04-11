@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
+<g>
+	<g id="Layer_2_1_">
+		
+			<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="554.146" cy="309.884" r="12.756"/>
+		
+			<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="639.315" cy="309.884" r="12.756"/>
+		
+			<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="724.225" cy="309.884" r="12.756"/>
+		
+			<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="749.736" cy="175.237" r="12.756"/>
+		<g>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M525.799,353.819V98.699"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M780.918,353.819V98.699"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M780.918,98.699H525.8"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M525.8,353.819h255.118"/>
+			
+				<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="539.973" cy="339.647" r="4.724"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M532.893,339.642h14.17"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M539.977,346.729v-14.17"/>
+			
+				<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="766.837" cy="112.898" r="4.724"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M759.758,112.89h14.17"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M766.842,119.983v-14.177"/>
+			
+				<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="766.917" cy="311.377" r="4.726"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M759.836,311.375h14.17"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M766.921,318.461v-14.177"/>
+			
+				<circle fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" cx="539.973" cy="112.841" r="4.724"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M532.893,112.84h14.17"/>
+			<path fill-opacity="0" stroke="#000000" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" d="
+				M539.977,119.925v-14.177"/>
+		</g>
+		<text transform="matrix(1 0 0 1 743.5303 160.3086)" font-family="'MyriadPro-Regular'" font-size="5.6693">Gain</text>
+		<text transform="matrix(1 0 0 1 716.2158 294.9541)" font-family="'MyriadPro-Regular'" font-size="5.6693">VMax</text>
+		<text transform="matrix(1 0 0 1 631.9053 294.9541)" font-family="'MyriadPro-Regular'" font-size="5.6693">Sens.</text>
+		<text transform="matrix(1 0 0 1 546.3477 295.4541)" font-family="'MyriadPro-Regular'" font-size="5.6693">VMin</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="394" y1="251.5" x2="566" y2="251.5"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="567" y1="269.5" x2="394" y2="269.5"/>
+	<text transform="matrix(1 0 0 1 579.082 248.6611)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="5.6693">Blue</tspan><tspan x="0" y="6.803" font-family="'MyriadPro-Regular'" font-size="5.6693">Orange</tspan><tspan x="0" y="20.409" font-family="'MyriadPro-Regular'" font-size="5.6693">Black</tspan><tspan x="0" y="27.213" font-family="'MyriadPro-Regular'" font-size="5.6693">Yellow</tspan></text>
+	<text transform="matrix(1 0 0 1 581.5781 234.6611)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="8.5039" letter-spacing="5">-</tspan><tspan x="8.053" y="0" font-family="'MyriadPro-Regular'" font-size="8.5039">+</tspan></text>
+	<path fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" d="M566.812,279.57
+		v-17.432h10.203v17.432H566.812z"/>
+	<path fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" d="
+		M566.812,258.027h10.203v-17.431h-10.203V258.027z"/>
+	<path fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" d="
+		M579.708,227.276v10.202h17.438v-10.202H579.708z"/>
+	
+		<rect x="559.917" y="103.16" fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" width="26.333" height="23.333"/>
+	
+		<rect x="576.417" y="129.827" fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" width="26.333" height="11.667"/>
+	<path fill-opacity="0" stroke="#000000" stroke-width="0.2835" stroke-linecap="round" stroke-linejoin="round" d="
+		M687.708,202.185h-17.15v9.922h17.15V202.185z"/>
+	<rect x="549.837" y="229.995" fill="#FFFFFF" width="10.333" height="56"/>
+	<rect x="551" y="231" opacity="0.6" fill="#FFFFFF" width="10" height="53"/>
+	<text transform="matrix(1 0 0 1 599.248 94.4951)" font-family="'MyriadPro-Regular'" font-size="28.3465">Back side</text>
+	<text transform="matrix(1 0 0 1 568.5811 151.0781)" font-family="'MyriadPro-Regular'" font-size="8.5039">Bias Trimmer</text>
+	<text transform="matrix(1 0 0 1 588.4971 114.2441)" font-family="'MyriadPro-Regular'" font-size="8.5039">Power In</text>
+	<text transform="matrix(1 0 0 1 666.585 198.5771)" font-family="'MyriadPro-Regular'" font-size="8.5039">Audio In</text>
+	<text transform="matrix(1 0 0 1 573.585 223.5771)" font-family="'MyriadPro-Regular'" font-size="8.5039">Audio Out</text>
+	<text transform="matrix(0 -1 1 0 558.2246 282.0586)" font-family="'MyriadPro-Regular'" font-size="8.5039">Motor Output</text>
+	<text transform="matrix(1 0 0 1 673.2461 209.1611)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="8.5039" letter-spacing="3">+</tspan><tspan x="8.639" y="0" font-family="'MyriadPro-Regular'" font-size="8.5039">-</tspan></text>
+	<text transform="matrix(1 0 0 1 563.4111 117.6611)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="11.3386" letter-spacing="8">+</tspan><tspan x="15.148" y="0" font-family="'MyriadPro-Regular'" font-size="11.3386">-</tspan></text>
+	<g>
+		<rect x="282.585" y="79.743" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="102" height="67.334"/>
+		<text transform="matrix(1 0 0 1 293.1631 117.5713)" font-family="'MyriadPro-Regular'" font-size="14.1732">Power Supply</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="281.669" y1="109.827" x2="215.001" y2="109.827"/>
+	<text transform="matrix(1 0 0 1 169.5439 99.1646)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="14.1732">IEC </tspan><tspan x="-20.353" y="17.008" font-family="'MyriadPro-Regular'" font-size="14.1732">Connector</tspan><tspan x="-8.646" y="34.016" font-family="'MyriadPro-Regular'" font-size="14.1732">+ Fuse</tspan></text>
+	<path fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" d="M385.5,114c63.5,0,77.42-41.59,118.92-41.59
+		c40.5,0,67.417,7.25,67.417,30.083"/>
+	<text transform="matrix(1 0 0 1 433.0542 161.6611)" font-family="'MyriadPro-Regular'" font-size="14.1732">+24V</text>
+	<text transform="matrix(1 0 0 1 485.0547 65.8281)" font-family="'MyriadPro-Regular'" font-size="14.1732">+24V</text>
+	<text transform="matrix(1 0 0 1 224.6807 104.4946)" font-family="'MyriadPro-Regular'" font-size="14.1732">220VAC</text>
+	<g>
+		<rect x="291.418" y="228.257" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="102.001" height="67.333"/>
+		<text transform="matrix(1 0 0 1 324.2773 266.0815)" font-family="'MyriadPro-Regular'" font-size="14.1732">Motor</text>
+	</g>
+	<text transform="matrix(1 0 0 1 213.2031 469.166)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="14.1732">Audio In Jack</tspan><tspan x="6.307" y="17.008" font-family="'MyriadPro-Regular'" font-size="14.1732"> Connector</tspan><tspan x="-3.848" y="34.016" font-family="'MyriadPro-Regular'" font-size="14.1732">(closest to IEC)</tspan></text>
+	<text transform="matrix(1 0 0 1 208.0298 404.166)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="14.1732">Audio Out Jack</tspan><tspan x="11.813" y="17.008" font-family="'MyriadPro-Regular'" font-size="14.1732"> Connector</tspan><tspan x="-0.878" y="34.016" font-family="'MyriadPro-Regular'" font-size="14.1732">(farthest to IEC)</tspan></text>
+	<path fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" d="M407.5,112c30.5,0,33.5,47.5,10.5,64
+		s-61.5,14-61.5,51.5"/>
+	<text transform="matrix(1 0 0 1 396.5 90)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">3-way</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">Wago</tspan></text>
+</g>
+<path fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" d="M677.17,212.496
+	c0,29.334,9.668,151.668-40.666,202c-47.334,47.333-160.027,66.337-344.027,66.337"/>
+<path fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" d="M596.333,236.167
+	c14.496,35.17,20.837,74.996,2.837,102.996c-28.202,43.87-48.17,70.667-305.528,70.667"/>
+<rect x="616.5" y="230.5" opacity="0.6" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="129" height="43"/>
+<text transform="matrix(1 0 0 1 629.1689 256)" font-family="'MyriadPro-Regular'" font-size="11.3386">Nucleo STM32-F303K8</text>
+<rect x="741.5" y="245.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="9" height="14"/>
+<text transform="matrix(1 0 0 1 756.7061 247)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7.0866">USB</tspan><tspan x="-3.763" y="8.504" font-family="'MyriadPro-Regular'" font-size="7.0866">debug</tspan><tspan x="-0.333" y="17.008" font-family="'MyriadPro-Regular'" font-size="7.0866">port</tspan></text>
+<text transform="matrix(1 0 0 1 345.3979 437.1689)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="11.3386">In all cables</tspan><tspan x="-2.143" y="13.606" font-family="'MyriadPro-Regular'" font-size="11.3386">Red = Signal</tspan><tspan x="-8.986" y="27.213" font-family="'MyriadPro-Regular'" font-size="11.3386">Black = Ground</tspan></text>
+</svg>

@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS21
+D Diode
+$ENDCMP
+#
+$CMP BAS21SW
+D Diode double
+$ENDCMP
+#
+$CMP BZX84C5V1
+D Diode zener 5.1V
+$ENDCMP
+#
+$CMP L6203
+D Full H-bridge, double
+K FA 1467715
+$ENDCMP
+#
+$CMP LM2674
+D Step down switching regulator
+K FA 9489754
+$ENDCMP
+#
+$CMP Nulceo_F303K8_CONN
+D Nucleo F303K8 connectors
+$ENDCMP
+#
+#End Doc Library
